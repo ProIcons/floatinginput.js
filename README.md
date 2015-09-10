@@ -30,3 +30,8 @@ $("inputelement(s)").float();
 ![Example](http://www.devian.gr/Misc/example.png?1)
 
 Live example on [CodePen.io](http://codepen.io/ProIcons/pen/KdpBZy/)
+
+###Discuss
+> [Hawkee](http://hawkee.com/snippet/16523/)
+
+[GitHub Repo](https://github.com/ProIcons/floatinginput.js)
