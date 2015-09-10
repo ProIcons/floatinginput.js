@@ -18,6 +18,7 @@
 
 ###Requirements:
 > jQuery
+>
 > An input field with placeholder attribute defined
 
 ###Usage:
