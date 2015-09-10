@@ -1,6 +1,4 @@
-# mfip
-Metro Floating Input Placeholder
-
+# Metro Floating Input Placeholder
 ---
 > This is an implementation of Windows Metro Floating Label Textbox for Javascript
 > 
